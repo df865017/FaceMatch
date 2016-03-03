@@ -6,7 +6,7 @@ this program is written for the match about the human face features when I was a
 通过建立黑白模板实现对不规则区域图像的仿射变换。
   
     
-运用到的设计模式 
+运用到 工厂设计模式 
 -----------------------------------  
 
     
