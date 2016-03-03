@@ -11,7 +11,7 @@ this program is written for the match about the human face features when I was a
 运用到 工厂设计模式 
 -----------------------------------  
 
-![github]( https://github.com/df865017/FaceMatch/blob/master/pic/code/Class%20Face.JPG"github") 
+![github](https://github.com/df865017/FaceMatch/blob/master/pic/code/Class%20Face.JPG "github") 
     
 ### 五官图片  
 ![github]( https://github.com/df865017/FaceMatch/blob/master/pic/left_eyebrow.png "github") 
