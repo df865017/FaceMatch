@@ -3,7 +3,7 @@ this program is written for the match about the human face features when I was a
 
 大标题  
 ===================================  
-  大标题一般显示工程名,类似html的\<h1\><br />  
+  大标题一般显示工程名,类似html的\<br />  
   你只要在标题下面跟上=====即可  
   
     
