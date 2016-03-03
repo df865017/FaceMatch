@@ -14,7 +14,7 @@ this program is written for the match about the human face features when I was a
 ![github]( https://github.com/df865017/FaceMatch/blob/master/pic/left_eyebrow.png "github") 
 ![github]( https://github.com/df865017/FaceMatch/blob/master/pic/right_eyebrow.png "github") </br>
 ![github](https://github.com/df865017/FaceMatch/blob/master/pic/left_eye.png "github")  
-![github](https://github.com/df865017/FaceMatch/blob/master/pic/right_eye.png "github") </br>
+![github](https://github.com/df865017/FaceMatch/blob/master/pic/right_eye.png "github") 
 ![github]( https://github.com/df865017/FaceMatch/blob/master/pic/nose.png "github") </br>
 ![github](https://github.com/df865017/FaceMatch/blob/master/pic/mouth.png "github")
 
