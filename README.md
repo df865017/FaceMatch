@@ -1,7 +1,7 @@
 # FaceMatch
 this program is written for the match about the human face features when I was as intern in Sony （China）research institute
 
-基于Opencv库实现人体五官图片的匹配
+基于Opencv库实现人脸特征的匹配
 ===================================  
 通过建立黑白模板实现对不规则区域图像的仿射变换。
   
