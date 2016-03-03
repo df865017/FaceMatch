@@ -69,4 +69,4 @@ this program is written for the match about the human face features when I was a
   
 ### 特殊字符处理  
 有一些特殊字符如<,#等,只要在特殊字符前面加上转义字符\即可<br />  
-你想换行的话其实可以直接用html标签\<br /\>  
+你想换行的话其实可以直接用html标签
